@@ -1,4 +1,4 @@
-"""Python script to generate all possible moves of a knight in a chess board
+"""Python script to generate all possible moves of a piece in a chess board
 from a given position."""
 # pylint:disable=invalid-name
 
